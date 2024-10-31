@@ -1,0 +1,26 @@
+body{
+    background-image: url(techbg.jpeg);
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+      }
+
+
+h1, p, ul {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 10px; 
+    border-radius: 5px; 
+}
+h1{
+
+    text-align: center;
+}
+
+iframe{
+    margin:auto;
+    display:block;
+}
